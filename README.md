@@ -12,7 +12,7 @@ This project applies multiple **Multi-Criteria Decision Making (MCDM)** techniqu
 
 ## 🧠 Objective
 
-To support investors/individuals in selecting the best company by analyzing trade-offs between ROI, risk, investment time, and other financial indicators.
+To support investors in selecting the best company by analyzing trade-offs between ROI, risk, investment time, and other financial indicators.
 
 ---
 
